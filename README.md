@@ -1,10 +1,5 @@
 <p align="center"><a href="https://maxwellalvord.github.io"><img width="40%" alt="Hello, I'm Maxxity and I'm a student at epicodus!" src="./assets/maxxity logo.png" /></a></p>
 
-<br />
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
-**About me**
-
 - 💬 Ask me about anything [here](https://github.com/maxwellalvord/maxwellalvord/issues)
 
 [![GitHub User8240](https://img.shields.io/github/followers/maxwellalvord?label=follow&style=social)](https://github.com/maxwellalvord)
