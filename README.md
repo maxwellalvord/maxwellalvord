@@ -8,8 +8,6 @@
 
 ----------------> 💬 Ask me about anything [here](https://github.com/maxwellalvord/maxwellalvord/issues) <----------------
 
-
-
 [![GitHub Maxwellalvord](https://img.shields.io/github/followers/maxwellalvord?label=follow&style=social)](https://github.com/maxwellalvord)
 </span>
 
