@@ -1,5 +1,5 @@
 # 📍 About Me:
-<p align="center">My name is Max but Maxxity is my most common username!<br>I graduated from the Epicodus Bootcamp for web an mobile development.<br>If I'm not coding I'm playing with my dog or playing a new game with friends!
+<p align="center">My name is Max but Maxxity is my most common username!<br>I graduated from the Epicodus Bootcamp for web and mobile development.<br>If I'm not coding I'm playing with my dog or playing a new game with friends!
 </p>
 
 
