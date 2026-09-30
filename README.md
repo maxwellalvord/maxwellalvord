@@ -51,7 +51,7 @@
 |---|---|---|
 | [**Ascoé**](https://space.ascoe.app) | Verified cross-gender Q&A app for iOS | Next.js · Capacitor · Clerk · Neon · FCM/APNs · Vercel |
 | [**Money Manager**](https://github.com/maxwellalvord/Money-Manager) | Personal finance tracker, publicly launched | Next.js · TypeScript · Drizzle · Neon · Clerk |
-| **Local business sites** | Fast static sites for Portland-area shops | Astro · Tailwind · Cloudflare Pages |
+| [**Local business sites**](https://github.com/maxwellalvord/Business-Site-Frame) | Fast static sites for Portland-area shops | Alpine.js,live open-hours logic, validated contact form, backed by security headers and automated browser tests. |
 | **Homelab** | Self-hosted media, photos, passwords, DNS & monitoring | Debian · Docker · Tailscale · Pi-hole · Uptime Kuma |
 
 ## GitHub stats
